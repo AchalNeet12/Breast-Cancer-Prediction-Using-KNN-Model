@@ -1,8 +1,8 @@
 # Breast Cancer Prediction Using K-Nearest Neighbors (KNN)
 ---
 ## 📋 Project Overview:
-    The Breast Cancer Prediction app is designed to assist in identifying whether a breast tumor is Benign (non-cancerous) or Malignant (cancerous). It uses a machine learning model trained on historical data 
-    of tumor features to classify the tumor. This tool provides an easy-to-use interface for users to input tumor details and get predictions instantly.
+   The Breast Cancer Prediction app is designed to assist in identifying whether a breast tumor is Benign (non-cancerous) or Malignant (cancerous). It uses a machine learning model trained on historical data 
+   of tumor features to classify the tumor. This tool provides an easy-to-use interface for users to input tumor details and get predictions instantly.
 ---
 ## 📌 K-Nearest Neighbors (KNN):
 The K-Nearest Neighbors (KNN) algorithm is a simple and effective supervised machine learning technique.
