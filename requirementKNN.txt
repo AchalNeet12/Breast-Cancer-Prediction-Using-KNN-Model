@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib.pyplot
+seaborn
+base64
+streamlit
+pickle
+sklearn.neighbors import KNeighborsClassifier
