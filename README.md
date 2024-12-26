@@ -40,7 +40,7 @@ The dataset used for this project is the Breast Cancer Wisconsin (Diagnostic) Da
   - **Feature Selection:** Selecting the most relevant features to avoid overfitting and improve model accuracy.
   -   Divided the dataset into 80% training and 20% testing subsets for validation.
 2. **KNN Model Development:**
-  - mplemented K-Nearest Neighbors (KNN), optimizing results with k=3, k=4, k=5 upto k=9
+  - implemented K-Nearest Neighbors (KNN), optimizing results with k=3, k=4, k=5 upto k=9
   - Used metrics like Confusion Matrix, Accuracy, Precision, Recall, and F1-Score for thorough evaluation.
 3. **Interactive Streamlit Application:**
   - Designed a user-friendly app where users can adjust sliders for tumor features like cell shape, size, and adhesion.
