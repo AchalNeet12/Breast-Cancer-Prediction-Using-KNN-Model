@@ -17,8 +17,9 @@ The K-Nearest Neighbors (KNN) algorithm is a simple and effective supervised mac
 The dataset used for this project is the Breast Cancer Wisconsin (Diagnostic) Dataset, which contains real-world data on breast tumors.
   - **Features:** The dataset includes numeric features that describe various characteristics of cell nuclei present in breast cancer biopsies.
   - **Labels:**
-           -  **Benign (0):** Tumors that are non-cancerous and do not spread to other parts of the body.
-           -  **Malignant (1):** Cancerous tumors that can invade nearby tissues or spread.
+     -  **Benign (0):** Tumors that are non-cancerous and do not spread to other parts of the body.
+    
+     -  **Malignant (1):** Cancerous tumors that can invade nearby tissues or spread.
 ---
 ## 🔑 **Key Features:**
    - **Clump Thickness:** Uniformity of the cell clumps.
