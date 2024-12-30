@@ -60,15 +60,15 @@ The dataset used for this project is the Breast Cancer Wisconsin (Diagnostic) Da
    - Streamlit makes it easy to host and interact with the app locally or on the web.
 ---
 ## 📊 **Model Results:**
-- **Best Model Accuracy**: 97.86% (with `k=4`)
-- **Confusion Matrix for k=3**:
+- **Best Model Accuracy**: 97.86% (with `k=7`)
+- **Confusion Matrix for k=7**:
         
           [[83 2] 
           [ 2 53]]
   
-- **Precision**: 100%
-- **Recall**: 96.59%
-- **F1-Score**: 98.27%
+- **Precision**: 97.65%
+- **Recall**: 97.65%
+- **F1-Score**: 97.65%
 - **Null Accuracy**: 60.71%
 ---
 ## 📝 **Conclusion:**
